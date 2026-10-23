@@ -1,6 +1,6 @@
 # Hello, world!
 
-A tiny web project that displays 鈥淗ello, world!鈥?in your browser.
+A tiny web project that displays “Hello, world!” in your browser.
 
 ## Run it
 
